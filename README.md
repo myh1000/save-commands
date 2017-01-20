@@ -1,5 +1,7 @@
 # Save-commands package for Atom editor
 
+Wanted to make an option to hide the output panel.
+
 This package allows you to define parametrized shell commands
 to be automatically run, in sequence, whenever a file matching glob pattern is saved.  
 This effectively eliminates the need for file watchers, and simplifies your build process.
